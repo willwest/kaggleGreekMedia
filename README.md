@@ -1,2 +1,2 @@
-#Kaggle Competition: "Greek Media Competition"
+#Kaggle Competition: "Greek Media Monitoring Multilabel Classification"
 ======================
